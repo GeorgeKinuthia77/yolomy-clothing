@@ -11,36 +11,36 @@ nav{
     background-color: #C3BDA3;
 }
 .dot-green {
-  height: 15px;
-  width: 15px;
+  height: 20px;
+  width: 20px;
   background-color: green;
   border-radius: 50%;
   display: inline-block;
 }
 .dot-blue {
-  height: 15px;
-  width: 15px;
+  height: 20px;
+  width: 20px;
   background-color: blue;
   border-radius: 50%;
   display: inline-block;
 }
 .dot-black {
-  height: 15px;
-  width: 15px;
+  height: 20px;
+  width: 20px;
   background-color: black;
   border-radius: 50%;
   display: inline-block;
 }
 .dot-pink {
-  height: 15px;
-  width: 15px;
+  height: 20px;
+  width: 20px;
   background-color: pink;
   border-radius: 50%;
   display: inline-block;
 }
 .dot-white {
-  height: 15px;
-  width: 15px;
+  height: 20px;
+  width: 20px;
   background-color: white;
   border-radius: 50%;
   display: inline-block;
@@ -55,18 +55,18 @@ nav{
     height: 400px;
     color: #FFF;
 }
-.fieldset {
+.field {
   border: 5px solid #C3BDA3;
   margin-top: 1em;
   width: 500px;
 }
 
-.fieldset h1 {
+.field h1 {
   font-size: 12px;
   text-align: center;
 }
 
-.fieldset h1 span {
+.field h1 span {
   display: inline;
   border: 1px solid #C3BDA3;
   padding: 5px 10px;
