@@ -24,6 +24,7 @@ CSS
 Javascript
 Support and contact details
 Contact me @0704282877
+this is the link to my site:https://georgekinuthia77.github.io/yolomy-clothing/
 
 #License
 
