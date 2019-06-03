@@ -1,7 +1,10 @@
 #Yolomy
+
 This is a website about clothing and how to shop and get prices of different items
 By George Kinuthia
-##Setup/Installation Requirements
+
+#Setup/Installation Requirements
+
 A text Editor
 Git - for those who decide to clone
 Installation
@@ -10,16 +13,18 @@ To view open index.html in your preferred browser
 To edit open the folder/project using you preferred text editor
 Live Site
 
+#Known Bugs
 
-###Known Bugs
 None
 
-####Technologies used
+#Technologies used
+
 Html
 CSS
 Javascript
 Support and contact details
 Contact me @0704282877
 
-#####License
+#License
+
 MIT Copyright (c) 2019 George Kinuthia
