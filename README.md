@@ -1,6 +1,7 @@
 #Yolomy
 
 This is a website about clothing and how to shop and get prices of different items
+
 By George Kinuthia
 
 #Setup/Installation Requirements
